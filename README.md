@@ -1,2 +1,2 @@
 # Firstrep
-First repo
+First repo for git command demonstration
